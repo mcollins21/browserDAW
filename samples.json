@@ -1,0 +1,23 @@
+[
+    {
+      "name" : "brass",
+      "file" : "samples/brass.wav",
+      "bpm" : 120
+    },
+    {
+      "name" : "percussion",
+      "file" : "samples/percussion.wav",
+      "bpm" : 120
+    },
+    {
+      "name" : "woodwinds",
+      "file" : "samples/woodwinds.wav",
+      "bpm" : 120
+    },
+    {
+      "name" : "other",
+      "file": "samples/other.wav",
+      "bpm" : 120
+    }
+  
+  ]
