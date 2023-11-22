@@ -1,6 +1,3 @@
-Tone.start();
 
-const synth = new Tone.Synth().toDestination();
+const synth = new Tone.PolySynth().toDestination();
 
-//play a middle 'C' for the duration of an 8th note
-synth.triggerAttackRelease("C4", "8n");
