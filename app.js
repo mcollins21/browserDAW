@@ -1,21 +1,8 @@
 
-
 // importing samples from samples.json
 
-/*
-let promiseSamples = loadSamplesData("samples.json");
+const player = new Tone.player("./samples/brass.wav").toDestination();
 
-function makeSamples(obj) {
-    
-}
-
-*/
-
-
-const synth = new Tone.Synth().toDestination();
-
-//play a middle 'C' for the duration of an 8th note
-synth.triggerAttackRelease("C4", "8n");
 
 
 /*
