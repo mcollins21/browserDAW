@@ -1,14 +1,6 @@
+Tone.start();
 
-// importing samples from samples.json
+const synth = new Tone.Synth().toDestination();
 
-const player = new Tone.player("./samples/brass.wav").toDestination();
-
-
-
-/*
-// initalizing tone.js transport
-Tone.Transport.bpm.value = 120;
-
-Tone.Transport.start();
-
-*/
+//play a middle 'C' for the duration of an 8th note
+synth.triggerAttackRelease("C4", "8n");
