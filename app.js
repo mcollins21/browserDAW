@@ -1,4 +1,4 @@
-import * as Tone from "tone";
+
 
 // importing samples from samples.json
 
