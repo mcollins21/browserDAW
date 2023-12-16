@@ -1,6 +1,6 @@
 # browserDAW
 
-    This web application is being developed as part of an independent-study project by Michael Collins for Loyola University Chicago. All audio samples that are used during development have been sourced from Freesound. Any question or concerns can be forwarded on to mcollins21@luc.edu.
+This web application is being developed as part of an independent-study project by Michael Collins for Loyola University Chicago. All audio samples that are used during development have been sourced from Freesound. Any question or concerns can be forwarded on to mcollins21@luc.edu.
 
 
 Current Development Status (as of):
